@@ -89,7 +89,6 @@ namespace PrimerProyectoGit
         }
 
         // Devuelve el alumno que esta en la posicion num
-        //
         public Alumno Obtener(int num)
         {
             if (num >= 0 && num <= listaAlumnos.Count)
