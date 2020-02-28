@@ -88,7 +88,7 @@ namespace PrimerProyectoGit
             listaAlumnos.Add(alu);
         }
 
-        // Devuelve el alumno que está en la posición num
+        // Devuelve el alumno que esta en la posicion num
         //
         public Alumno Obtener(int num)
         {
